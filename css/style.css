@@ -1,0 +1,204 @@
+.search {
+    width: 80vh;
+    height: 50px;
+    border-radius: 5px;
+    border-color: rgb(188, 181, 181);
+    border-width: 5px;
+    display: flex;
+    border-style: solid;
+    border-width: 1.5px;
+
+}
+
+.search h4 {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 8px;
+    color: rgb(124, 124, 124);
+}
+
+.search .searchtwo {
+    width: 30vh;
+    height: 50px;
+    border-radius: 2px;
+    border-color: rgb(124, 124, 124);
+    border-style: solid;
+    border-width: 0.5px;
+}
+
+.navfour {
+    background-color: rgb(204, 31, 31);
+}
+
+.searcright h6 {
+    color: white;
+    font-size: 13px;
+}
+
+.nav-item .food {
+    color: white;
+    font-weight: bolder;
+    font-size: 13px;
+}
+
+.iconserc {
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+.container {
+    width: 1100px;
+    height: auto;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.container .box {
+    margin-top: -70px;
+
+    position: relative;
+    width: 430px;
+    background-color: #fff;
+    padding: 50px 20px 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.container .box h3 {
+    font-size: 20px;
+}
+
+.carttwo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carttwo .onecard {
+    margin-left: -1400px;
+    padding: 350px 20px 30px;
+}
+
+.carttwo .twocard {
+    padding: 350px 10px 30px;
+}
+
+.bar {
+    background-color: rgb(124, 0, 0);
+}
+
+.imgfour {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+
+}
+
+.imgfour .cardd {
+    gap: 20px;
+}
+
+footer {
+    background-color: #a83c3c;
+}
+
+footer .tex {
+
+    font-size: 10px;
+
+}
+
+.son {
+    margin-top: -50px;
+    background-color: #a83c3c;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.recent {
+    font-weight: bolder;
+}
+
+.photo .up {
+    font-size: 13px;
+}
+
+.photo .down {
+    font-size: 13px;
+}
+
+.card {
+    padding: 10px;
+    margin: 40px;
+    width: 200px;
+    float: left;
+    text-align: center;
+    border-width: none;
+    border: none;
+}
+
+.api .card {
+    border: none;
+}
+
+.hero {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.price {
+    color: red;
+}
+
+.product-name {
+    font-size: smaller;
+}
+
+.product-name,
+.product-category {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+
+.column {
+    flex: 20%;
+    padding: 0 15px;
+}
+
+.column img {
+    max-width: 100%;
+    height: auto;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.column {
+    flex: 20%;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+
+.product-card {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
